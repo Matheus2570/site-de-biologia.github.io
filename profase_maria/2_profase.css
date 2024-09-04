@@ -3,7 +3,7 @@ body{
     padding: 0;
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(/Site_Mitose_Atividade.github.io/Imagens/Fundo-mitose.jpg);
+    background-image: url(/site_mitose_biologia.github.io/img/Fundo-mitose.jpg);
     animation: fundomechendo 50s infinite linear;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
