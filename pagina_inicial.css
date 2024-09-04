@@ -202,11 +202,11 @@ justify-content: center;
         flex-direction: column;
     }
     .img1{
-        width: 22%;
+        width: 25%;
         margin-left: 1%;
     }
     .img2{
-        width: 28%;
+        width: 35%;
     }
     
     .Titulo{
@@ -214,7 +214,7 @@ justify-content: center;
         margin-top: -95%;
         width: 97.9vw;
         h1{
-            font-size: 3.3vw;
+            font-size: 4vw;
         }
     }
 
@@ -225,13 +225,13 @@ justify-content: center;
         display: flex;
         flex-direction: column;
     }
-    
+
     
     .p{
-        font-size: 2vw;
+        font-size: 3vw;
     }
     .Bloco2-1{
-        font-size: 2.4vw;
+        font-size: 3vw;
     }
     .img3{
         margin-top: 4%;
@@ -243,11 +243,15 @@ justify-content: center;
         width: 96vw;
         height: 65vh;
         font-size: 2.9vw;
+        h2{
+            font-size: 3.5vw;
+            margin-top: 10%;
+        }
     }
     .Bloco1{
         text-align: justify;
         align-items: center;
-        font-size: 2.3vw;
+        font-size: 3vw;
         height: 20vh;
         width: 96vw;
         p{
@@ -259,20 +263,20 @@ justify-content: center;
     .Nav{
       width: 100vw;
         h2{
-            margin-top: -63vw;
+            margin-top: -60vw;
            font-size: 4vw;
            margin-left: 1vw;
-        margin-bottom: -5%;
+           margin-bottom: -3%;
            text-align: center;
         }
         a{
-        font-size: 2.2vw;
+        font-size: 3vw;
         }
         
     }
     .Rodape{
         width: 100vw;
-        font-size: 2vw;
+        font-size: 2.5vw;
         height: 9.5vh;
        
     }
