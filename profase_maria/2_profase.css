@@ -217,7 +217,7 @@ a{
         }
         
         .Rodape p {
-            margin-top: 4%;
+            margin-top: 6%;
         }
         
         .Rodape {
@@ -226,8 +226,10 @@ a{
         }
         
         .img2 {
-            width: 28%;
-            margin-left: 3%;
+            margin-top: 1%;
+            width: 30%;
+            height: 13vh;
+            margin-left: 1%;
         }
     }
     
