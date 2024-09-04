@@ -263,13 +263,13 @@ justify-content: center;
       width: 100vw;
         h2{
             margin-top: -60vw;
-           font-size: 4vw;
+           font-size: 6vw;
            margin-left: 1vw;
            margin-bottom: -3%;
            text-align: center;
         }
         a{
-        font-size: 3vw;
+        font-size: 3.5vw;
         }
         
     }
@@ -282,8 +282,8 @@ justify-content: center;
     }
 
     @keyframes fundomechendo {
-        0% { background-position: 0% 20%; }
-        50% { background-position: 10% 5%; }
+        0% { background-position: 0% 0%; }
+        50% { background-position: 6% 6%; }
         100% { background-position: 0% 0%; }
     }
     
