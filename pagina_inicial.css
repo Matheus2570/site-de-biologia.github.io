@@ -1,0 +1,352 @@
+body {
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/site_mitose_biologia.github.io/img/Fundo-mitose.jpg);
+    animation: fundomechendo 50s infinite linear;
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff; 
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.2vw;
+}
+
+
+
+.Blocos {
+    display: flex;
+    flex-direction: row;
+}
+
+.Nav ul {
+    font-size: 1.7vw;
+    list-style-type: none; 
+    padding: 10%; 
+}
+
+.Nav  li {
+    margin-bottom: 10px; 
+}
+
+.Nav a {
+    display: block;
+    padding: 10px 20px; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    color: #d3d3d3; 
+    text-align: center;
+    text-decoration: none; 
+    border-radius: 5px; 
+    transition: background-color 0.5s ease; 
+}
+
+.Nav li a:hover {
+    background-color: #00b7ffd2; 
+    box-shadow: 0px 0px 5px 0px black;
+    color: white; 
+}
+
+.Nav{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: center;
+    width: 20vw;
+    height: 115vh;
+    h2{
+        margin-left: 18%;
+    }
+}
+
+.Content {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.Titulo {
+    padding: 1%;
+    display: flex;
+    font-size: 2vw;
+    align-items: center;
+    flex-direction: row;
+    background: rgba(0, 0, 0, 0.5); 
+    background-color: transparent;
+    height: 20vh;
+    width: 98%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+    color: #ffffff; 
+h1{
+margin-left: 5%;
+}
+}
+
+.img1, .img2, .img3 {
+    border-radius: 15%;
+    max-width: 100%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+}
+
+.img1 {
+    width: 10vw;
+    margin-right: 2%;
+
+}
+
+.img2 {
+    width: 14.3vw;
+    margin-left: 10%;
+}
+
+.img3 {
+    width: 13vw;
+}
+
+.Blocos2 {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.1vw;
+}
+
+.Bloco2, .Bloco1 {
+    background: rgba(255, 255, 255, 0.9); 
+    border: solid 2px #ddd;
+    padding: 2%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease;
+}
+
+.Bloco2 {
+    height: 85vh;
+    display: flex;
+    background-color: transparent;
+    align-items: center;
+    flex-direction: column;
+    width: 95%;
+    h2 {
+        font-size: 2vw;
+        color: #ffffff; 
+    }
+}
+
+.Bloco1 {
+    font-size: 1.2vw;
+    display: flex;
+    background-color: transparent;
+    flex-direction: column;
+    width: 30%;
+    margin-right: 0.3%;
+    height: 85vh;
+    color: #f3f3f3; 
+}
+
+.Bloco2:hover, .Bloco1:hover {
+    transform: scale(1.02);
+    box-shadow: 2px 2px 10px rgb(0, 0, 0);
+}
+
+.Rodape {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+justify-content: center;
+    background: rgba(0, 0, 0, 0.5); 
+    backdrop-filter: blur(10px);
+    color: #ffffff; 
+    height: 14vh;
+    font-size: 1.2vw;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+    padding: 1% 0;
+}
+
+.p {
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+    padding: 2%;
+    border-radius: 10px;
+    color: white;
+    background: rgba(35, 64, 145, 0.63); 
+    backdrop-filter: blur(10px);
+    margin-top: 2%;
+}
+
+.Bloco2-1 {
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    color: white;
+    background: rgba(35, 64, 145, 0.63); 
+    backdrop-filter: blur(10px);
+    margin-top: 4%;
+    display: flex;
+    flex-direction: row;
+    font-size: 1.1vw;
+    text-align: justify;
+    padding: 2%;
+    p {
+        padding-left: 3%;
+    }
+}
+@keyframes fundomechendo {
+    0% { background-position: 0% 0%; }
+    50% { background-position: 100% 100%; }
+    100% { background-position: 0% 0%; }
+
+}
+
+@media screen and (max-width: 480px) {
+
+
+    .Blocos{
+        display: flex;
+        flex-direction: column;
+    }
+    .img1{
+        width: 22%;
+        margin-left: 1%;
+    }
+    .img2{
+        width: 28%;
+    }
+    
+    .Titulo{
+        border: 1px solid white;
+        margin-top: -95%;
+        width: 97.9vw;
+        h1{
+            font-size: 3.3vw;
+        }
+    }
+
+
+    
+    .Blocos2{
+
+        display: flex;
+        flex-direction: column;
+    }
+    
+    
+    .p{
+        font-size: 2vw;
+    }
+    .Bloco2-1{
+        font-size: 2.4vw;
+    }
+    .img3{
+        margin-top: 4%;
+        width: 20vw;
+        height: 13vh;
+    }
+    
+    .Bloco2{
+        width: 96vw;
+        height: 65vh;
+        font-size: 2.9vw;
+    }
+    .Bloco1{
+        text-align: justify;
+        align-items: center;
+        font-size: 2.3vw;
+        height: 20vh;
+        width: 96vw;
+        p{
+            margin-top: -2%;
+        }
+     
+    }
+    
+    .Nav{
+      width: 100vw;
+        h2{
+            margin-top: -63vw;
+           font-size: 4vw;
+           margin-left: 1vw;
+        margin-bottom: -5%;
+           text-align: center;
+        }
+        a{
+        font-size: 2.2vw;
+        }
+        
+    }
+    .Rodape{
+        width: 100vw;
+        font-size: 2vw;
+        height: 9.5vh;
+       
+    }
+    }
+    
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .Bloco2-1 {
+
+        font-size: 1.7vw;
+    }
+
+    .Bloco2 {
+        height: 90vh;
+        h2 {
+            margin-top: 5%;
+            font-size: 3vw;
+        }
+
+
+    }
+
+    .p {
+        font-size: 1.7vw;
+        
+    }
+
+    .img1 {
+        width: 18vw;
+
+    }
+
+    .img2 {
+        width: 20vw;
+
+    }
+
+    .img3{
+        width: 20vw;
+    }
+    .Titulo {
+        font-size: 3vw;
+    }
+
+    .Bloco1 {
+        height: 90vh;
+        font-size: 1.7vw;
+
+        a {
+            font-size: 1.5vw;
+        }
+    }
+
+    .Nav {
+        a {
+            font-size: 1.9vw;
+        }                 
+
+        h2 {
+            margin-left: 14%;
+        }
+    }
+
+.Rodape{
+    height: 10vw;
+    font-size: 1.7vw;
+   
+}
+
+.Bloco1{
+    h2{
+        margin-top: 10vw;
+    }
+}
+}
+
