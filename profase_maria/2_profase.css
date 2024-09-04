@@ -4,7 +4,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-image: url(/site_mitose_biologia.github.io/img/Fundo-mitose.jpg);
-    animation: fundomechendo 50s infinite linear;
+    animation: fundomechendo 20s infinite linear;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -129,10 +129,9 @@ p{
 }
 
 @keyframes fundomechendo {
-    0% { background-position: 0% 0%; }
-    50% { background-position: 100% 100%; }
-    100% { background-position: 0% 0%; }
-
+    0% { background-position: 50% 50%; }
+    50% { background-position: 55% 55%; }
+    100% { background-position: 50% 50%; }
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
