@@ -280,6 +280,12 @@ justify-content: center;
        
     }
     }
+
+    @keyframes fundomechendo {
+        0% { background-position: 0% 20%; }
+        50% { background-position: 10% 5%; }
+        100% { background-position: 0% 0%; }
+    }
     
 
 
