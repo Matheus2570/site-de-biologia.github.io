@@ -209,12 +209,18 @@ a{
             margin-top: 5%;
         }
         
-        .Bloco1,
-        .Bloco2 {
+        .Bloco1{
             display: flex;
-            width: 70%;
+            width: 80vw;
             margin: 0 auto;
             font-size: 2.7vw;
+
+        }
+        .Bloco2 {
+            display: flex;
+            width: 80%;
+            margin: 0 auto;
+            font-size: 2.9vw;
             h2{
                 margin-top: 10%;
             }
@@ -224,7 +230,7 @@ a{
         }
         
         .Bloco2 {
-            height: 40vh;
+            height: 44.5vh;
         }
         
         .Rodape p {
@@ -237,7 +243,6 @@ a{
         }
         .img1{
             height: 33vh;
-            width: 100vw;
         }
         
         .img2 {

@@ -220,21 +220,21 @@ a{
             display: flex;
             margin: 0 auto;
             font-size: 2vw;
-            width: 75%;
+            width: 80%;
             height: 35vh;
 
         }
         .Bloco2 {
-            width: 70%;
+            width: 80%;
             margin: 0 auto;
-            font-size: 2.6vw;
+            font-size: 2.9vw;
             h2{
                 margin-top: 10%;
             }
         }
         
         .Bloco2 {
-            height: 40vh;
+            height: 42vh;
         }
         
         .Rodape p {
