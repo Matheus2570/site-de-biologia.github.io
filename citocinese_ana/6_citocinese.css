@@ -1,0 +1,240 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(/site_mitose_biologia.github.io/img/Fundo-mitose.jpg);
+    animation: fundomechendo 20s infinite linear;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img1, .img2{
+    border-radius: 15%;
+    max-width: 100%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+}
+
+.img1{
+    width: 80vw;
+    max-width: 100%;
+}
+
+.img2 {
+    width: 10vw;
+    margin-right: 2%;
+}
+
+
+
+.Titulo{
+    font-size: 1.5vw;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: transparent;
+}
+
+.Conteiner{
+    margin-top: 1%;
+display: flex;
+justify-content: center;
+}
+
+
+.Botao{
+    display: flex;
+    justify-content: center;
+    font-size: 1.3vw;
+    width: 15%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.822); 
+    color: #d3d3d3; 
+    border-radius: 5px; 
+    
+}
+
+.Botao a{
+    padding: 6% 22.1%;
+    border-radius: 5px;
+    text-decoration: none; 
+    color: #d3d3d3; 
+    transition: background-color 1.5s ease; 
+}
+
+.Botao a:hover {
+    background-color: #2fc4ffa6; 
+    box-shadow: 0px 0px 5px 0px black;
+    color: white; 
+}
+
+
+
+.Blocos{
+    margin-top: 4%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+.Bloco1{  
+width: 35%;
+color: white;
+transition: transform 0.3s ease;
+}
+
+.Rodape{
+    border-radius: 2%;
+    margin-top: 1.8%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+justify-content: center;
+    background: rgba(0, 0, 0, 0.5); 
+    backdrop-filter: blur(2px);
+    color: #ffffff; 
+    height: 14vh;
+    font-size: 1.2vw;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+    padding: 1% 0;
+}
+
+ .Bloco1:hover {
+    border-radius: 15%;
+    transform: scale(1.02);
+    box-shadow: 2px 2px 10px rgb(0, 0, 0);
+}
+.Bloco2:hover{
+    transform: scale(1.02);
+    box-shadow: 2px 2px 10px rgb(0, 0, 0);
+}
+
+.Bloco2{ 
+    font-size: 1.3vw;
+    border: solid 1px #ddd;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+    width: 35%;
+color: white;
+transition: transform 0.3s ease;
+p{
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+
+}
+
+@keyframes fundomechendo {
+    0% { background-position: 50% 50%; }
+    50% { background-position: 55% 55%; }
+    100% { background-position: 50% 50%; }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+.Titulo{
+    font-size: 2vw;
+}
+
+.Conteiner{
+    a{
+        font-size: 1.7vw;
+    }
+}
+
+.Botao{
+    width: 20%;
+a{
+    padding: 6% 22.9%;
+}
+}
+.Blocos{
+    margin-top: 8%;
+}
+
+.Bloco1{
+    width: 45%;
+}
+.Bloco2{
+    font-size: 1.8vw;
+    width: 45%;
+}
+
+.Rodape{
+    p{
+        margin-top: 3%;
+    }
+    margin-top: 8.1%;
+    font-size: 1.6vw
+
+}
+.img2{
+    width: 15%;
+}
+}
+
+
+    @media screen and (max-width: 480px) {
+        .Titulo{
+            font-size: 3.5vw;
+        }
+        
+        .Conteiner a {
+            font-size: 2.3vw;
+        }
+        
+        .Botao {
+            width: 50%;
+        a {
+            font-size: 230%;
+            padding: 7% 31%;
+        }
+        }
+        
+        .Blocos {
+            display: flex;
+            flex-direction: column;
+            margin-top: 5%;
+        }
+        
+        .Bloco1,
+        .Bloco2 {
+            display: flex;
+            width: 70%;
+            margin: 0 auto;
+            font-size: 2vw;
+        }
+        .Bloco2{
+            margin-top: 5%;
+        }
+        
+        .Bloco2 {
+            height: 30vh;
+        }
+        
+        .Rodape p {
+            margin-top: 6%;
+        }
+        
+        .Rodape {
+            margin-top: 8.1%;
+            font-size: 2.5vw;
+        }
+        
+        .img2 {
+            margin-top: 1%;
+            width: 30%;
+            height: 13vh;
+            margin-left: 1.1%;
+        }
+        
+        @keyframes fundomechendo {
+            0% { background-position: 0% 20%; }
+            50% { background-position: 10% 5%; }
+            100% { background-position: 0% 0%; }
+        }
+    }
+    
