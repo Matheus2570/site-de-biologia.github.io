@@ -33,7 +33,6 @@ body{
     justify-content: center;
     color: white;
     background-color: transparent;
-    backdrop-filter: blur(3px);
 }
 
 .Conteiner{
@@ -128,6 +127,9 @@ p{
     margin-right: 2%;
     text-align: justify;
 }
+h2{
+    margin-top: 15%;
+}
 
 
 }
@@ -209,7 +211,10 @@ a{
             display: flex;
             width: 70%;
             margin: 0 auto;
-            font-size: 2vw;
+            font-size: 2.6vw;
+            h2{
+                margin-top: 7%;
+            }
         }
         .Bloco2{
             margin-top: 5%;
