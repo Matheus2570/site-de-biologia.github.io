@@ -203,7 +203,9 @@ a{
             flex-direction: column;
             margin-top: 5%;
         }
-        
+        .Bloco1{
+            height: 32vh;
+        }
         .Bloco1,
         .Bloco2 {
             display: flex;
