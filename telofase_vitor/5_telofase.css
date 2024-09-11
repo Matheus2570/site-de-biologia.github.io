@@ -214,13 +214,13 @@ a{
             display: flex;
             margin: 0 auto;
             font-size: 2vw;
-            width: 76%;
+            width: 80%;
             height: 33vh;
 
         }
         .Bloco2 {
             display: flex;
-            width: 70%;
+            width: 80%;
             margin: 0 auto;
             font-size: 2.9vw;
             h2{
