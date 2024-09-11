@@ -60,7 +60,7 @@ a {
     }
 }
 
-.Content {
+.Conteiner {
     display: flex;
     flex-direction: column;
     width: 80%;
