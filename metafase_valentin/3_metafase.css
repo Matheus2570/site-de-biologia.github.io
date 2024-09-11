@@ -4,7 +4,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-image: url(/site_mitose_biologia.github.io/img/Fundo-mitose.jpg);
-    animation: fundomechendo 900s infinite linear;
+    animation: fundomechendo 90s infinite linear;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -111,7 +111,7 @@ justify-content: center;
 }
 
 .Bloco1{
-    height: 40vh;
+    height: 72vh;
 }
 .Bloco2{ 
     height: 70vh;
@@ -141,10 +141,7 @@ p{
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
-    .body{
-        animation: fundomechendo 130s infinite linear;
-
-    }
+    
 .Titulo{
     font-size: 2vw;
 }
@@ -190,10 +187,7 @@ a{
 
 
     @media screen and (max-width: 480px) {
-        .body{
-            animation: fundomechendo 130s infinite linear;
-    
-        }
+        
         .Titulo{
             font-size: 3.5vw;
         }
@@ -256,10 +250,6 @@ a{
             margin-left: 1.1%;
         }
         
-        @keyframes fundomechendo {
-            0% { background-position: 0% 0%; }
-            50% { background-position: 5% 5%; }
-            100% { background-position: 0% 0%; }
-        }
+       
     }
     
