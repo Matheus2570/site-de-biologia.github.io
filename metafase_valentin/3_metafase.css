@@ -111,10 +111,11 @@ justify-content: center;
 }
 
 .Bloco1{
+    margin-top: 4%;
     height: 51vh;
 }
 .Bloco2{ 
-    height: 80vh;
+    height: 70vh;
     background: rgba(0, 0, 0, 0.2); 
     backdrop-filter: blur(2px);
     font-size: 1.3vw;
@@ -165,7 +166,8 @@ a{
     margin-top: 8%;
 }
 
-.Bloco1{
+.Bloco1{ 
+    margin-top: 10%;
     width: 45%;
 }
 .Bloco2{
@@ -213,13 +215,20 @@ a{
             flex-direction: column;
             margin-top: 5%;
         }
-        
-        .Bloco1,
+
+        .Bloco1{
+            display: flex;
+            margin: 0 auto;
+            font-size: 2vw;
+            width: 75%;
+            height: 33vh;
+
+        }
         .Bloco2 {
             display: flex;
             width: 70%;
             margin: 0 auto;
-            font-size: 2vw;
+            font-size: 2.2vw;
         }
         .Bloco2{
             margin-top: 5%;
@@ -237,7 +246,6 @@ a{
             margin-top: 8.1%;
             font-size: 2.5vw;
         }
-        
         .img2 {
             margin-top: 1%;
             width: 30%;
