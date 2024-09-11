@@ -214,14 +214,14 @@ a{
             display: flex;
             width: 70%;
             margin: 0 auto;
-            font-size: 2vw;
+            font-size: 2.5vw;
         }
         .Bloco2{
             margin-top: 5%;
         }
         
         .Bloco2 {
-            height: 30vh;
+            height: 40vh;
         }
         
         .Rodape p {
