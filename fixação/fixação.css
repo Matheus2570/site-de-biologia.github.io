@@ -77,13 +77,14 @@ justify-content: center;
 }
 
 video{
-
+max-width: 100%;
     border-radius: 3%;
     transition: transform 0.10s ease;
     height: 71vh;
     border: 1px solid white;
 }
 Audio{
+    max-width: 100%;
 
 }
 .Bloco1{ 
