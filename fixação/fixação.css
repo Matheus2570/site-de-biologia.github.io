@@ -4,7 +4,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-image: url(/site_mitose_biologia.github.io/img/Fundo-mitose.jpg);
-    animation: fundomechendo 900s infinite linear;
+    animation: fundomechendo 90s infinite linear;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -77,12 +77,14 @@ justify-content: center;
 }
 
 video{
+max-width: 100%;
     border-radius: 3%;
     transition: transform 0.10s ease;
     height: 71vh;
     border: 1px solid white;
 }
 Audio{
+    max-width: 100%;
 
 }
 .Bloco1{ 
@@ -145,10 +147,7 @@ p{
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
-    .body{
-        animation: fundomechendo 130s infinite linear;
-
-    }
+    
 .Titulo{
     font-size: 2vw;
 }
@@ -170,9 +169,11 @@ a{
 }
 
 .Bloco1{
+    margin-left: 5%;
     width: 45%;
 }
 .Bloco2{
+    margin-right: 5%;
     font-size: 1.8vw;
     width: 45%;
 }
@@ -192,10 +193,7 @@ a{
 
 
     @media screen and (max-width: 480px) {
-        .body{
-            animation: fundomechendo 130s infinite linear;
-    
-        }
+        
         .Titulo{
             font-size: 3.5vw;
         }
@@ -217,11 +215,14 @@ a{
             flex-direction: column;
             margin-top: 5%;
         }
-        
-        .Bloco1,
+    
+        .Bloco1{
+    margin-left: 12%;
+
+        }
         .Bloco2 {
             display: flex;
-            width: 80%;
+            width: 100%;
             margin: 0 auto;
             font-size: 2.9vw;
             h2{
@@ -231,9 +232,8 @@ a{
         .Bloco2{
             margin-top: 5%;
         }
-        
         .Bloco2 {
-            height: 40vh;
+            height: 23vh;
         }
         
         .Rodape p {
@@ -255,10 +255,6 @@ a{
             margin-left: 1.1%;
         }
         
-        @keyframes fundomechendo {
-            0% { background-position: 0% 0%; }
-            50% { background-position: 5% 5%; }
-            100% { background-position: 0% 0%; }
-        }
+        
     }
     
