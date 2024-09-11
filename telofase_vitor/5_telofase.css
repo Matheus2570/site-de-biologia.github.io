@@ -77,12 +77,11 @@ justify-content: center;
 }
 
 
-
 .Bloco1{  
-width: 35%;
-color: white;
-transition: transform 0.3s ease;
-}
+    width: 35%;
+    color: white;
+    transition: transform 0.3s ease;
+    }
 
 .Rodape{
     border-radius: 2%;
@@ -211,8 +210,14 @@ a{
             flex-direction: column;
             margin-top: 5%;
         }
-        
-        .Bloco1,
+        .Bloco1{
+            display: flex;
+            margin: 0 auto;
+            font-size: 2vw;
+            width: 75%;
+            height: 35vh;
+
+        }
         .Bloco2 {
             display: flex;
             width: 70%;
