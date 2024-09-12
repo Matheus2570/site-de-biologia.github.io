@@ -181,7 +181,10 @@ a{
 
 
     @media screen and (max-width: 480px) {
-    
+    body{
+        animation: fundomechendo 130s infinite linear;
+
+    }
         .Titulo{
             font-size: 3.5vw;
         }
