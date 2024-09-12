@@ -1,7 +1,6 @@
 body {
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(/site_mitose_biologia.github.io/img/Fundo-mitose.jpg);
     animation: fundomechendo 90s infinite linear;
     margin: 0;
     padding: 0;
