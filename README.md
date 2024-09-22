@@ -32,7 +32,7 @@ Cada fase é explicada com detalhes, acompanhada de elementos visuais para ajuda
 ## Objetivo
 
 Este site foi desenvolvido como parte de um projeto educacional para o professor de Biologia, visando facilitar o ensino da mitose de maneira prática e interativa.
-
+"
 ## Como Visualizar
 
 Para visualizar o site:
@@ -48,4 +48,4 @@ Para visualizar o site:
 - Vitor Gabriel.
 - Valentina Martelli.
 
-**Integrantes:** ![Foto dos integrante](https://github.com/user-attachments/assets/6c49cbe5-ce4d-416a-9515-8905b5299c0a)
+**Integrantes:** <img src="https://github.com/user-attachments/assets/6c49cbe5-ce4d-416a-9515-8905b5299c0a" alt="Citocinese" width="300">
