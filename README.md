@@ -30,4 +30,4 @@ Para visualizar o site:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/mitose-site.git
+   https://matheus2570.github.io/site_mitose_biologia.github.io/
