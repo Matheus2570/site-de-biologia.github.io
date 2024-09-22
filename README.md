@@ -11,6 +11,7 @@ O site apresenta as 5 fases da mitose:
 3. **Metáfase**
 4. **Anáfase**
 5. **Telófase**
+6. **Citocinese**
 
 Cada fase é explicada com detalhes, acompanhada de elementos visuais para ajudar na compreensão dos processos que ocorrem em cada etapa.
 
