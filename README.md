@@ -8,7 +8,7 @@ Este site foi desenvolvido como um projeto para a disciplina de Biologia, com o 
 
 O site apresenta as 5 fases da mitose:
 
-1. **Prófase** ![Ícone de Prófase](icones/profase-icon.png)
+1. **Prófase** ![Ícone de Prófase](https://github.com/user-attachments/assets/bf4b62be-0adf-4b65-99c8-bc209ea57f64)
 2. **Prometáfase** ![Ícone de Prometáfase](icones/prometafase-icon.png)
 3. **Metáfase** ![Ícone de Metáfase](icones/metafase-icon.png)
 4. **Anáfase** ![Ícone de Anáfase](icones/anafase-icon.png)
