@@ -6,11 +6,12 @@ Este site foi desenvolvido como um projeto para a disciplina de Biologia, com o 
 
 O site apresenta as 5 fases da mitose:
 
-1. **Prófase** ![Prófase](https://github.com/user-attachments/assets/bf4b62be-0adf-4b65-99c8-bc209ea57f64)
-2. **Metáfase** ![Metáfase](https://github.com/user-attachments/assets/32c089a1-dcd6-42f4-b485-052d5c997e88)
-3. **Anáfase** ![Anáfase](https://github.com/user-attachments/assets/100e2079-5a8d-4556-afe9-2e1b50bda281)
-4. **Telófase** ![Telófase](https://github.com/user-attachments/assets/825ea1c0-21e4-452d-ab72-b402fd467fdc)
-5. **Citocinese** ![Citocinese](https://github.com/user-attachments/assets/d8aec277-5079-4078-8c71-0271d8eda54d)
+
+1. **Prófase** <img src="https://github.com/user-attachments/assets/bf4b62be-0adf-4b65-99c8-bc209ea57f64" alt="Prófase" width="200">
+2. **Metáfase** <img src="https://github.com/user-attachments/assets/32c089a1-dcd6-42f4-b485-052d5c997e88" alt="Metáfase" width="200">
+3. **Anáfase** <img src="https://github.com/user-attachments/assets/100e2079-5a8d-4556-afe9-2e1b50bda281" alt="Anáfase" width="200">
+4. **Telófase** <img src="https://github.com/user-attachments/assets/825ea1c0-21e4-452d-ab72-b402fd467fdc" alt="Telófase" width="200">
+5. **Citocinese** <img src="https://github.com/user-attachments/assets/d8aec277-5079-4078-8c71-0271d8eda54d" alt="Citocinese" width="200">
 
 Cada fase é explicada com detalhes, acompanhada de elementos visuais para ajudar na compreensão dos processos que ocorrem em cada etapa.
 
