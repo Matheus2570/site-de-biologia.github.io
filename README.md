@@ -4,7 +4,7 @@ Este site foi desenvolvido como um projeto para a disciplina de Biologia, com o 
 
 ## Conteúdo do Site
 
-O site apresenta as 5 fases da mitose:
+O site apresenta as 6 fases da mitose:
 
 1. **Prófase**
 2. **Prometáfase**
