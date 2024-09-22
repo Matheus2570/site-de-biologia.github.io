@@ -42,8 +42,8 @@ Para visualizar o site:
    https://matheus2570.github.io/site_mitose_biologia.github.io/index.html
 
 ## Integrantes que fizeram parte do projeto:
--Maria Clara Clara Cardoso Gomes Freire
--Laura Marques
--Ana Clara
--Vitor Gabriel
--Valentina Martelli
+- Maria Clara Clara Cardoso Gomes Freire.
+- Laura Marques.
+- Ana Clara.
+- Vitor Gabriel.
+- Valentina Martelli.
