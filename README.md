@@ -47,3 +47,5 @@ Para visualizar o site:
 - Ana Clara.
 - Vitor Gabriel.
 - Valentina Martelli.
+
+**Integrantes:** ![Foto dos integrante](https://github.com/user-attachments/assets/6c49cbe5-ce4d-416a-9515-8905b5299c0a)
