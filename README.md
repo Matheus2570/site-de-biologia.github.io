@@ -34,9 +34,6 @@ Cada fase é explicada com detalhes, acompanhada de elementos visuais para ajuda
 Este site foi desenvolvido como parte de um projeto educacional para o professor de Biologia, visando facilitar o ensino da mitose de maneira prática e interativa.
 "
 ## Como Visualizar
-
-Como Ver:
-
 1. Cole esse link no seu Goole:
    ```bash
    https://matheus2570.github.io/site_mitose_biologia.github.io/index.html
