@@ -35,9 +35,9 @@ Este site foi desenvolvido como parte de um projeto educacional para o professor
 "
 ## Como Visualizar
 
-Para visualizar o site:
+Como Ver:
 
-1. Clone o repositório:
+1. Cole esse link no seu Goole:
    ```bash
    https://matheus2570.github.io/site_mitose_biologia.github.io/index.html
 
