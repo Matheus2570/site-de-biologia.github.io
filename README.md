@@ -36,7 +36,8 @@ Este site foi desenvolvido como parte de um projeto educacional para o professor
 ## Como Visualizar
 1. Cole esse link no seu Goole:
    ```bash
-   https://matheus2570.github.io/site_mitose_biologia.github.io/index.html
+   https://matheus2570.github.io/site_mitose_biologia/
+
 
 ## Integrantes que fizeram parte do projeto:
 - Maria Clara Clara Cardoso Gomes Freire.
