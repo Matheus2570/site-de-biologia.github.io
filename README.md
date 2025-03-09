@@ -29,7 +29,7 @@ Cada fase é explicada com detalhes, acompanhada de elementos visuais para ajuda
 - **HTML5**: Para a estruturação das páginas e organização do conteúdo.
 - **CSS3**: Para o design e estilização, garantindo que o site seja visualmente atrativo e didático.
 
-## 📌 Objetivo
+## 🎯 Objetivo
 
 Este site foi desenvolvido como parte de um projeto educacional para o professor de Biologia, visando facilitar o ensino da mitose de maneira prática e interativa.
 "
