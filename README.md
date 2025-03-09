@@ -24,22 +24,22 @@ O site apresenta as 5 fases da mitose:
 
 Cada fase é explicada com detalhes, acompanhada de elementos visuais para ajudar na compreensão dos processos que ocorrem em cada etapa.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Para a estruturação das páginas e organização do conteúdo.
 - **CSS3**: Para o design e estilização, garantindo que o site seja visualmente atrativo e didático.
 
-## Objetivo
+## 📌 Objetivo
 
 Este site foi desenvolvido como parte de um projeto educacional para o professor de Biologia, visando facilitar o ensino da mitose de maneira prática e interativa.
 "
-## Como Visualizar
+## 📌 Como Visualizar
 1. Cole esse link no seu Goole:
    ```bash
    https://matheus2570.github.io/site_mitose_biologia/
 
 
-## Integrantes que fizeram parte do projeto:
+## 🧑 Integrantes que fizeram parte do projeto:
 - Maria Clara Clara Cardoso Gomes Freire.
 - Laura Marques.
 - Ana Clara.
